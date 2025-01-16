@@ -1,2 +1,2 @@
 # Fruit-Website
-A 
+This is a fruit website.
